@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\bin\Debug\net6.0\OO.exe
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\bin\Debug\net6.0\OO.deps.json
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\bin\Debug\net6.0\OO.runtimeconfig.json
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\bin\Debug\net6.0\OO.dll
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\bin\Debug\net6.0\OO.pdb
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.csproj.AssemblyReference.cache
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.AssemblyInfo.cs
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.dll
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\refint\OO.dll
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.pdb
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\OO.genruntimeconfig.cache
+C:\Users\Joao Vitor\Documents\Workspace\balta\PraticaOO\OO\obj\Debug\net6.0\ref\OO.dll
